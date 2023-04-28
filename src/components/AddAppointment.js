@@ -1,6 +1,7 @@
 import React,{useState} from 'react'
 import {host_link} from '../data/rest_connection'
 
+//Add appointment
 export const AddAppointment = () =>{
     const [dateQuery,setDateQuery] = useState('')
     const [timeFromQuery,setTimeFromQuery] = useState('')
