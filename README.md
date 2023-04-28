@@ -1,3 +1,8 @@
+# DJFinder booking App
+A Booking Application created using REACT framework as front-end and python FLASK as backend
+
+
+
 # Functionality
 
 ## Booking Appointments
